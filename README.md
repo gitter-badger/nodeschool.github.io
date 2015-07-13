@@ -1,6 +1,8 @@
 nodeschool.github.io
 ====================
 
+[![Join the chat at https://gitter.im/Azzurrio/nodeschool.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Azzurrio/nodeschool.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 http://nodeschool.io/ internet web page
 
 Please fork it and send us improvements! Read our [CONTRIBUTING.md](CONTRIBUTING.md) guide for more details on how to send a great PR.
